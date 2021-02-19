@@ -1,0 +1,2 @@
+Welcome to Python programming workshop 
+wich was conducted by the SJCET colloborated with APSSDC
